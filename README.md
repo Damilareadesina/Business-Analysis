@@ -19,27 +19,27 @@ Analysis on inflation is a descriptive analysis that explain how countries have 
 
 <p align="center">
 Unprocess Data: <br/>
-<img src="https://user-images.githubusercontent.com/126564128/230754211-675ceba1-c056-4d02-bc27-cdda8d18037a.JPG"/>
+<img src="https://github.com/Damilareadesina/Business-Analysis./assets/126564128/7b232941-4aab-43ee-929b-7f066ad8f737.JPG"/>
 <br />
 <br />
 Importing more Information from the Meta Data:  <br/>
-<img src="https://user-images.githubusercontent.com/126564128/230755595-5c4611eb-3121-4bd1-89af-72e4cec7d27d.JPG"/>
+<img src="https://github.com/Damilareadesina/Business-Analysis./assets/126564128/358bd02b-ab7b-4fc8-b081-d6c11d2185d5.JPG"/>
 <br />
 <br />
 Merging Queries:  <br/>
-<img src="https://user-images.githubusercontent.com/126564128/230756016-a3cc9076-dcc7-4bb2-b485-0ad6713f3d42.JPG"/>
+<img src="https://github.com/Damilareadesina/Business-Analysis./assets/126564128/358bd02b-ab7b-4fc8-b081-d6c11d2185d5.JPG"/>
 <br />
 <br />
 Unpivot column:  <br/>
-<img src="https://user-images.githubusercontent.com/126564128/230756564-81371364-2725-40fb-ad21-66461f3a0440.JPG"/>
+<img src="https://github.com/Damilareadesina/Business-Analysis./assets/126564128/988c25d9-334c-4da0-92fc-d0da7725a2cd.JPG"/>
 <br />
 <br />
 Loaded Into Table:  <br/>
-<img src="https://user-images.githubusercontent.com/126564128/230757216-1246eb6d-1806-450f-8a40-6f3e7f992d71.JPG"/>
+<img src="https://github.com/Damilareadesina/Business-Analysis./assets/126564128/34716ef1-1e6f-4845-9038-a88b6fd84e9d.JPG"/>
 <br />
 <br />
 Pivot tble Analysis:  <br/>
-<img src="https://user-images.githubusercontent.com/126564128/230757455-ceeab725-1100-4c6b-b9d0-8e61727a025c.JPG"/>
+<img src="https://github.com/Damilareadesina/Business-Analysis./assets/126564128/4e5d7fe1-1bb2-417e-9d41-64b64e751274.JPG"/>
 <br />
 <br />
 
