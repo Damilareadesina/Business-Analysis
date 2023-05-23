@@ -1,4 +1,4 @@
-<h1>Damilareadesina - Descriptive Analysis On Inflation</h1>
+<h1>Damilareadesina - Business Analysis</h1>
 
 <h2>Description</h2>
 Analysis on inflation is a descriptive analysis that explain how countries have performed in the span of 22years. Inflation is a power economic tool that government uses to adjust their policies to the development of their countries. Inflation is the general increase in prices and fall in the purchasing vlue of money.This project tries to compare how countries have performed in recent year with reference to Nigeria
