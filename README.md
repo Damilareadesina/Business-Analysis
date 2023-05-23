@@ -1,7 +1,9 @@
 <h1>Damilareadesina - Business Analysis</h1>
 
 <h2>Description</h2>
-Analysis on inflation is a descriptive analysis that explain how countries have performed in the span of 22years. Inflation is a power economic tool that government uses to adjust their policies to the development of their countries. Inflation is the general increase in prices and fall in the purchasing vlue of money.This project tries to compare how countries have performed in recent year with reference to Nigeria
+This project tries to explore and make meaning of the transactional information of a business venture to give insight for stakeholders to make effective decision. The concept of analyzing a business, you need to have an overview knowledge of structure, planning and performance of the said business. With this project I was able to help business owner see where and how to improve their business by providing them with the right visual information. 
+
+- <b>Terminologies Explanation </b>
 <br />
 
 
